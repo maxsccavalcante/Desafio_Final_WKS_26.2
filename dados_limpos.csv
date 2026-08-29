@@ -1,0 +1,203 @@
+id_paciente,id_medico,especialidade,tipo_plano,idade_paciente,dias_antecedencia,historico_faltas_paciente,valor_consulta,data_consulta,status,fonte,no_show,mes_ano,tipo_plano_cod,especialidade_cod
+1,1,Cardiologia,particular,35,11,0,250.0,2026-02-10,realizada,real,0,2026-02,2,0
+2,2,Pediatria,convenio_x,40,10,0,180.0,2026-02-11,realizada,real,0,2026-02,0,9
+3,3,Ortopedia,convenio_y,24,9,0,220.0,2026-02-12,realizada,real,0,2026-02,1,7
+4,4,Ginecologia,particular,47,16,0,210.0,2026-02-13,realizada,real,0,2026-02,2,4
+5,5,Clínica Geral,convenio_x,30,12,0,150.0,2026-02-14,realizada,real,0,2026-02,0,1
+6,6,Dermatologia,convenio_y,16,11,0,200.0,2026-02-17,realizada,real,0,2026-02,1,2
+4,7,Neurologia,particular,47,16,0,280.0,2026-02-17,faltou,real,1,2026-02,2,5
+7,7,Neurologia,particular,37,8,0,280.0,2026-02-18,realizada,real,0,2026-02,2,5
+8,8,Psiquiatria,convenio_x,26,19,0,250.0,2026-02-19,realizada,real,0,2026-02,0,10
+9,9,Oftalmologia,convenio_y,53,6,0,190.0,2026-02-20,realizada,real,0,2026-02,1,6
+10,10,Otorrinolaringologia,particular,10,13,0,200.0,2026-02-21,realizada,real,0,2026-02,2,8
+11,11,Urologia,convenio_x,32,12,0,220.0,2026-02-24,realizada,real,0,2026-02,0,11
+12,12,Clínica Geral,particular,43,6,0,150.0,2026-02-25,realizada,real,0,2026-02,2,1
+13,13,Cardiologia,convenio_y,20,13,0,250.0,2026-02-26,realizada,real,0,2026-02,1,0
+sim_70,sim_med_12,Oftalmologia,convenio_y,76,10,0,190.0,2025-06-28,faltou,simulado,1,2025-06,1,6
+sim_18,sim_med_8,Oftalmologia,convenio_y,2,14,0,190.0,2025-04-29,realizada,simulado,0,2025-04,1,6
+sim_4,sim_med_8,Pediatria,particular,40,17,0,180.0,2025-02-05,realizada,simulado,0,2025-02,2,9
+sim_50,sim_med_6,Pediatria,particular,51,7,0,180.0,2025-08-23,faltou,simulado,1,2025-08,2,9
+sim_90,sim_med_8,Otorrinolaringologia,particular,74,12,0,200.0,2025-12-13,realizada,simulado,0,2025-12,2,8
+sim_71,sim_med_2,Urologia,convenio_x,60,12,0,220.0,2025-11-18,faltou,simulado,1,2025-11,0,11
+sim_70,sim_med_3,Psiquiatria,convenio_x,65,9,1,250.0,2025-10-21,realizada,simulado,0,2025-10,0,10
+sim_35,sim_med_14,Ortopedia,convenio_x,28,2,0,220.0,2025-07-23,faltou,simulado,1,2025-07,0,7
+sim_33,sim_med_11,Otorrinolaringologia,convenio_x,42,20,0,200.0,2025-08-29,realizada,simulado,0,2025-08,0,8
+sim_25,sim_med_3,Cardiologia,convenio_y,10,16,0,260.0,2025-04-08,realizada,simulado,0,2025-04,1,0
+sim_42,sim_med_9,Otorrinolaringologia,convenio_y,45,10,0,200.0,2025-01-10,realizada,simulado,0,2025-01,1,8
+sim_8,sim_med_2,Oftalmologia,particular,38,21,0,190.0,2025-01-31,faltou,simulado,1,2025-01,2,6
+sim_87,sim_med_9,Clínica Geral,convenio_y,44,15,0,150.0,2025-10-21,realizada,simulado,0,2025-10,1,1
+sim_49,sim_med_6,Clínica Geral,particular,85,6,0,150.0,2025-07-26,faltou,simulado,1,2025-07,2,1
+sim_75,sim_med_10,Cardiologia,particular,80,4,0,260.0,2025-09-09,realizada,simulado,0,2025-09,2,0
+sim_66,sim_med_2,Psiquiatria,convenio_y,30,6,0,250.0,2025-11-18,faltou,simulado,1,2025-11,1,10
+sim_50,sim_med_8,Neurologia,convenio_y,34,16,1,280.0,2025-02-28,realizada,simulado,0,2025-02,1,5
+sim_82,sim_med_2,Dermatologia,convenio_y,17,6,0,200.0,2025-10-20,realizada,simulado,0,2025-10,1,2
+sim_68,sim_med_6,Otorrinolaringologia,convenio_y,80,11,0,200.0,2025-06-16,realizada,simulado,0,2025-06,1,8
+sim_80,sim_med_1,Pediatria,convenio_y,35,3,0,180.0,2025-08-31,faltou,simulado,1,2025-08,1,9
+sim_75,sim_med_5,Otorrinolaringologia,particular,15,22,0,200.0,2025-08-21,faltou,simulado,1,2025-08,2,8
+sim_90,sim_med_1,Oftalmologia,convenio_y,45,8,0,190.0,2025-05-01,realizada,simulado,0,2025-05,1,6
+sim_61,sim_med_11,Urologia,convenio_x,12,4,0,220.0,2025-12-30,realizada,simulado,0,2025-12,0,11
+sim_8,sim_med_2,Psiquiatria,particular,40,12,1,250.0,2025-11-09,faltou,simulado,1,2025-11,2,10
+sim_44,sim_med_8,Neurologia,convenio_y,60,8,0,280.0,2025-03-13,faltou,simulado,1,2025-03,1,5
+sim_14,sim_med_11,Endocrinologia,particular,65,10,0,230.0,2025-11-01,realizada,simulado,0,2025-11,2,3
+sim_73,sim_med_4,Clínica Geral,convenio_y,43,11,0,150.0,2025-05-20,realizada,simulado,0,2025-05,1,1
+sim_31,sim_med_2,Neurologia,convenio_x,84,33,0,280.0,2024-10-26,realizada,simulado,0,2024-10,0,5
+sim_59,sim_med_2,Urologia,convenio_x,78,32,0,220.0,2024-09-09,realizada,simulado,0,2024-09,0,11
+sim_80,sim_med_13,Cardiologia,convenio_x,33,26,1,260.0,2025-10-29,faltou,simulado,1,2025-10,0,0
+sim_83,sim_med_1,Endocrinologia,particular,16,8,0,230.0,2025-01-15,faltou,simulado,1,2025-01,2,3
+sim_18,sim_med_11,Ortopedia,particular,39,17,0,220.0,2025-03-16,realizada,simulado,0,2025-03,2,7
+sim_79,sim_med_1,Oftalmologia,particular,76,8,0,190.0,2025-08-21,realizada,simulado,0,2025-08,2,6
+sim_1,sim_med_12,Ginecologia,convenio_x,80,19,0,210.0,2025-11-21,realizada,simulado,0,2025-11,0,4
+sim_76,sim_med_2,Oftalmologia,convenio_y,81,6,0,190.0,2024-12-31,realizada,simulado,0,2024-12,1,6
+sim_75,sim_med_1,Neurologia,convenio_x,87,1,1,280.0,2024-10-31,realizada,simulado,0,2024-10,0,5
+sim_13,sim_med_6,Clínica Geral,convenio_x,44,26,0,150.0,2025-06-04,realizada,simulado,0,2025-06,0,1
+sim_17,sim_med_14,Psiquiatria,particular,71,13,0,250.0,2024-09-15,realizada,simulado,0,2024-09,2,10
+sim_77,sim_med_3,Clínica Geral,convenio_y,59,7,0,150.0,2025-12-25,realizada,simulado,0,2025-12,1,1
+sim_54,sim_med_8,Psiquiatria,convenio_y,82,19,0,250.0,2025-11-05,realizada,simulado,0,2025-11,1,10
+sim_85,sim_med_14,Psiquiatria,convenio_y,14,6,0,250.0,2024-09-24,realizada,simulado,0,2024-09,1,10
+sim_9,sim_med_10,Dermatologia,convenio_x,6,11,0,200.0,2025-11-24,realizada,simulado,0,2025-11,0,2
+sim_48,sim_med_2,Psiquiatria,convenio_y,69,24,0,250.0,2024-12-07,realizada,simulado,0,2024-12,1,10
+sim_65,sim_med_12,Pediatria,convenio_x,66,6,0,180.0,2025-06-12,realizada,simulado,0,2025-06,0,9
+sim_69,sim_med_14,Endocrinologia,convenio_x,25,8,0,230.0,2025-11-29,faltou,simulado,1,2025-11,0,3
+sim_50,sim_med_2,Clínica Geral,convenio_x,13,5,1,150.0,2025-01-04,realizada,simulado,0,2025-01,0,1
+sim_34,sim_med_2,Endocrinologia,convenio_y,88,16,0,230.0,2025-11-10,realizada,simulado,0,2025-11,1,3
+sim_44,sim_med_14,Endocrinologia,convenio_x,49,20,1,230.0,2026-01-05,faltou,simulado,1,2026-01,0,3
+sim_42,sim_med_14,Dermatologia,particular,40,13,0,200.0,2025-06-26,faltou,simulado,1,2025-06,2,2
+sim_4,sim_med_10,Otorrinolaringologia,particular,70,5,0,200.0,2024-11-11,faltou,simulado,1,2024-11,2,8
+sim_81,sim_med_13,Otorrinolaringologia,particular,4,8,0,200.0,2026-01-04,faltou,simulado,1,2026-01,2,8
+sim_27,sim_med_5,Endocrinologia,particular,2,15,0,230.0,2026-01-09,realizada,simulado,0,2026-01,2,3
+sim_77,sim_med_1,Ortopedia,convenio_y,7,7,0,220.0,2025-05-29,realizada,simulado,0,2025-05,1,7
+sim_42,sim_med_12,Ortopedia,particular,63,21,1,220.0,2025-04-29,realizada,simulado,0,2025-04,2,7
+sim_1,sim_med_6,Cardiologia,convenio_y,42,16,0,260.0,2025-01-15,faltou,simulado,1,2025-01,1,0
+sim_89,sim_med_14,Endocrinologia,convenio_y,42,8,0,230.0,2025-09-07,faltou,simulado,1,2025-09,1,3
+sim_49,sim_med_7,Dermatologia,convenio_x,49,7,1,200.0,2025-01-20,faltou,simulado,1,2025-01,0,2
+sim_46,sim_med_5,Psiquiatria,convenio_x,37,31,0,250.0,2025-11-25,faltou,simulado,1,2025-11,0,10
+sim_56,sim_med_14,Clínica Geral,convenio_x,37,11,0,150.0,2025-02-22,faltou,simulado,1,2025-02,0,1
+sim_53,sim_med_8,Endocrinologia,particular,29,7,0,230.0,2025-07-17,realizada,simulado,0,2025-07,2,3
+sim_54,sim_med_8,Psiquiatria,convenio_x,53,14,0,250.0,2025-02-13,realizada,simulado,0,2025-02,0,10
+sim_57,sim_med_8,Neurologia,convenio_x,33,22,0,280.0,2025-01-02,realizada,simulado,0,2025-01,0,5
+sim_25,sim_med_2,Oftalmologia,particular,47,14,0,190.0,2024-11-10,faltou,simulado,1,2024-11,2,6
+sim_26,sim_med_12,Neurologia,particular,31,16,0,280.0,2025-06-03,faltou,simulado,1,2025-06,2,5
+sim_64,sim_med_2,Otorrinolaringologia,convenio_x,64,5,0,200.0,2025-10-25,realizada,simulado,0,2025-10,0,8
+sim_90,sim_med_1,Clínica Geral,particular,69,12,0,150.0,2025-07-25,realizada,simulado,0,2025-07,2,1
+sim_61,sim_med_3,Ortopedia,convenio_x,43,5,0,220.0,2025-10-20,realizada,simulado,0,2025-10,0,7
+sim_76,sim_med_11,Oftalmologia,particular,89,22,0,190.0,2024-11-11,faltou,simulado,1,2024-11,2,6
+sim_4,sim_med_9,Clínica Geral,convenio_x,82,4,1,150.0,2025-10-27,faltou,simulado,1,2025-10,0,1
+sim_21,sim_med_4,Ortopedia,convenio_x,27,19,0,220.0,2025-08-27,faltou,simulado,1,2025-08,0,7
+sim_76,sim_med_11,Otorrinolaringologia,convenio_x,50,7,1,200.0,2025-02-14,faltou,simulado,1,2025-02,0,8
+sim_33,sim_med_8,Psiquiatria,particular,49,12,0,250.0,2025-07-07,realizada,simulado,0,2025-07,2,10
+sim_39,sim_med_1,Otorrinolaringologia,convenio_x,12,3,0,200.0,2024-11-04,realizada,simulado,0,2024-11,0,8
+sim_63,sim_med_10,Clínica Geral,particular,14,8,0,150.0,2025-03-12,realizada,simulado,0,2025-03,2,1
+sim_89,sim_med_11,Oftalmologia,convenio_x,56,7,1,190.0,2025-02-28,realizada,simulado,0,2025-02,0,6
+sim_42,sim_med_2,Otorrinolaringologia,particular,46,3,1,200.0,2025-01-03,realizada,simulado,0,2025-01,2,8
+sim_89,sim_med_14,Pediatria,convenio_y,27,2,1,180.0,2024-10-22,realizada,simulado,0,2024-10,1,9
+sim_78,sim_med_4,Clínica Geral,convenio_y,23,6,0,150.0,2025-06-16,realizada,simulado,0,2025-06,1,1
+sim_84,sim_med_10,Clínica Geral,particular,74,2,0,150.0,2024-09-23,faltou,simulado,1,2024-09,2,1
+sim_69,sim_med_13,Psiquiatria,convenio_y,2,3,1,250.0,2024-10-27,faltou,simulado,1,2024-10,1,10
+sim_63,sim_med_10,Otorrinolaringologia,convenio_x,24,1,0,200.0,2025-09-12,realizada,simulado,0,2025-09,0,8
+sim_54,sim_med_5,Clínica Geral,particular,36,8,0,150.0,2025-02-01,faltou,simulado,1,2025-02,2,1
+sim_41,sim_med_2,Psiquiatria,convenio_y,48,10,0,250.0,2024-08-20,faltou,simulado,1,2024-08,1,10
+sim_52,sim_med_2,Ortopedia,convenio_y,89,2,0,220.0,2025-07-20,realizada,simulado,0,2025-07,1,7
+sim_10,sim_med_7,Ginecologia,particular,32,11,0,210.0,2025-09-30,realizada,simulado,0,2025-09,2,4
+sim_38,sim_med_5,Otorrinolaringologia,convenio_y,86,4,0,200.0,2025-04-01,realizada,simulado,0,2025-04,1,8
+sim_81,sim_med_12,Otorrinolaringologia,convenio_x,88,15,1,200.0,2024-12-29,faltou,simulado,1,2024-12,0,8
+sim_22,sim_med_7,Dermatologia,particular,30,36,0,200.0,2025-02-22,realizada,simulado,0,2025-02,2,2
+sim_78,sim_med_6,Clínica Geral,convenio_y,53,6,0,150.0,2025-02-01,realizada,simulado,0,2025-02,1,1
+sim_59,sim_med_1,Dermatologia,convenio_x,86,7,0,200.0,2025-08-15,realizada,simulado,0,2025-08,0,2
+sim_5,sim_med_12,Ortopedia,particular,88,8,0,220.0,2025-05-24,faltou,simulado,1,2025-05,2,7
+sim_11,sim_med_6,Endocrinologia,particular,35,4,0,230.0,2025-09-16,realizada,simulado,0,2025-09,2,3
+sim_14,sim_med_6,Cardiologia,particular,38,9,0,260.0,2024-10-28,realizada,simulado,0,2024-10,2,0
+sim_39,sim_med_10,Neurologia,convenio_y,70,8,0,280.0,2024-10-28,realizada,simulado,0,2024-10,1,5
+sim_31,sim_med_9,Ortopedia,particular,23,3,0,220.0,2024-09-24,realizada,simulado,0,2024-09,2,7
+sim_5,sim_med_2,Dermatologia,convenio_y,14,10,1,200.0,2025-10-25,faltou,simulado,1,2025-10,1,2
+sim_64,sim_med_4,Endocrinologia,particular,9,4,0,230.0,2025-03-27,faltou,simulado,1,2025-03,2,3
+sim_77,sim_med_7,Neurologia,particular,56,7,0,280.0,2025-04-02,realizada,simulado,0,2025-04,2,5
+sim_88,sim_med_5,Endocrinologia,convenio_y,8,4,0,230.0,2025-07-11,realizada,simulado,0,2025-07,1,3
+sim_60,sim_med_11,Psiquiatria,convenio_y,28,21,0,250.0,2024-12-31,realizada,simulado,0,2024-12,1,10
+sim_13,sim_med_1,Psiquiatria,particular,62,9,0,250.0,2024-09-27,faltou,simulado,1,2024-09,2,10
+sim_50,sim_med_3,Urologia,convenio_x,36,11,1,220.0,2025-11-08,realizada,simulado,0,2025-11,0,11
+sim_15,sim_med_8,Ortopedia,convenio_y,75,4,0,220.0,2025-09-04,realizada,simulado,0,2025-09,1,7
+sim_33,sim_med_6,Neurologia,convenio_x,84,11,0,280.0,2025-11-25,realizada,simulado,0,2025-11,0,5
+sim_87,sim_med_6,Dermatologia,particular,17,3,0,200.0,2025-02-16,realizada,simulado,0,2025-02,2,2
+sim_38,sim_med_11,Neurologia,convenio_y,59,12,0,280.0,2025-01-04,faltou,simulado,1,2025-01,1,5
+sim_89,sim_med_6,Ginecologia,convenio_y,83,10,1,210.0,2024-10-16,realizada,simulado,0,2024-10,1,4
+sim_37,sim_med_2,Cardiologia,convenio_y,54,6,0,260.0,2024-12-15,realizada,simulado,0,2024-12,1,0
+sim_30,sim_med_7,Pediatria,convenio_x,6,14,0,180.0,2025-07-22,faltou,simulado,1,2025-07,0,9
+sim_68,sim_med_4,Endocrinologia,particular,79,15,0,230.0,2025-05-25,realizada,simulado,0,2025-05,2,3
+sim_12,sim_med_4,Cardiologia,convenio_x,9,9,0,260.0,2024-09-09,faltou,simulado,1,2024-09,0,0
+sim_23,sim_med_14,Pediatria,convenio_y,27,9,0,180.0,2025-07-15,realizada,simulado,0,2025-07,1,9
+sim_53,sim_med_6,Cardiologia,particular,84,6,0,260.0,2025-08-09,realizada,simulado,0,2025-08,2,0
+sim_49,sim_med_5,Neurologia,particular,16,7,2,280.0,2024-12-30,realizada,simulado,0,2024-12,2,5
+sim_77,sim_med_4,Ginecologia,convenio_x,11,8,0,210.0,2024-12-20,realizada,simulado,0,2024-12,0,4
+sim_81,sim_med_4,Psiquiatria,particular,10,4,2,250.0,2025-10-09,realizada,simulado,0,2025-10,2,10
+sim_80,sim_med_5,Psiquiatria,convenio_y,52,4,2,250.0,2024-10-22,faltou,simulado,1,2024-10,1,10
+sim_23,sim_med_8,Dermatologia,convenio_y,16,10,0,200.0,2025-05-26,realizada,simulado,0,2025-05,1,2
+sim_36,sim_med_3,Neurologia,convenio_x,33,9,0,280.0,2025-11-05,realizada,simulado,0,2025-11,0,5
+sim_15,sim_med_13,Ginecologia,particular,50,8,0,210.0,2025-10-23,faltou,simulado,1,2025-10,2,4
+sim_1,sim_med_12,Dermatologia,convenio_x,8,11,1,200.0,2025-05-19,faltou,simulado,1,2025-05,0,2
+sim_89,sim_med_1,Pediatria,convenio_y,74,2,1,180.0,2025-04-01,realizada,simulado,0,2025-04,1,9
+sim_84,sim_med_3,Ginecologia,convenio_y,59,9,1,210.0,2025-02-28,faltou,simulado,1,2025-02,1,4
+sim_84,sim_med_1,Neurologia,convenio_x,40,9,2,280.0,2024-10-21,faltou,simulado,1,2024-10,0,5
+sim_36,sim_med_6,Clínica Geral,particular,40,8,0,150.0,2025-10-26,realizada,simulado,0,2025-10,2,1
+sim_66,sim_med_3,Psiquiatria,convenio_x,42,3,1,250.0,2025-04-03,realizada,simulado,0,2025-04,0,10
+sim_9,sim_med_7,Psiquiatria,convenio_y,53,3,0,250.0,2025-12-22,realizada,simulado,0,2025-12,1,10
+sim_48,sim_med_8,Oftalmologia,particular,60,22,0,190.0,2024-10-12,realizada,simulado,0,2024-10,2,6
+sim_14,sim_med_10,Psiquiatria,convenio_x,65,15,0,250.0,2024-10-06,faltou,simulado,1,2024-10,0,10
+sim_37,sim_med_1,Clínica Geral,particular,40,11,0,150.0,2025-08-09,realizada,simulado,0,2025-08,2,1
+sim_80,sim_med_13,Dermatologia,particular,16,2,3,200.0,2024-12-11,realizada,simulado,0,2024-12,2,2
+sim_25,sim_med_8,Oftalmologia,particular,14,11,1,190.0,2024-09-09,faltou,simulado,1,2024-09,2,6
+sim_50,sim_med_11,Psiquiatria,convenio_y,53,9,1,250.0,2025-03-06,faltou,simulado,1,2025-03,1,10
+sim_88,sim_med_7,Neurologia,convenio_x,37,12,0,280.0,2025-07-11,realizada,simulado,0,2025-07,0,5
+sim_16,sim_med_12,Urologia,convenio_y,30,17,0,220.0,2025-07-31,realizada,simulado,0,2025-07,1,11
+sim_22,sim_med_11,Ginecologia,convenio_y,82,4,0,210.0,2025-09-15,realizada,simulado,0,2025-09,1,4
+sim_10,sim_med_6,Clínica Geral,convenio_x,63,10,0,150.0,2025-09-11,realizada,simulado,0,2025-09,0,1
+sim_37,sim_med_5,Dermatologia,convenio_y,21,18,0,200.0,2025-12-23,faltou,simulado,1,2025-12,1,2
+sim_41,sim_med_5,Oftalmologia,convenio_y,22,8,1,190.0,2025-11-02,realizada,simulado,0,2025-11,1,6
+sim_18,sim_med_12,Urologia,convenio_x,15,22,0,220.0,2025-03-17,faltou,simulado,1,2025-03,0,11
+sim_23,sim_med_3,Dermatologia,convenio_y,21,3,0,200.0,2025-02-07,faltou,simulado,1,2025-02,1,2
+sim_39,sim_med_8,Neurologia,convenio_x,50,15,0,280.0,2025-12-26,realizada,simulado,0,2025-12,0,5
+sim_61,sim_med_11,Oftalmologia,convenio_y,33,3,0,190.0,2025-09-14,realizada,simulado,0,2025-09,1,6
+sim_65,sim_med_5,Oftalmologia,convenio_x,21,10,0,190.0,2024-10-13,faltou,simulado,1,2024-10,0,6
+sim_14,sim_med_1,Dermatologia,particular,48,12,1,200.0,2025-11-22,realizada,simulado,0,2025-11,2,2
+sim_31,sim_med_7,Endocrinologia,convenio_y,32,7,0,230.0,2025-10-18,realizada,simulado,0,2025-10,1,3
+sim_74,sim_med_11,Cardiologia,convenio_x,10,20,0,260.0,2025-04-12,realizada,simulado,0,2025-04,0,0
+sim_65,sim_med_11,Clínica Geral,convenio_x,38,6,1,150.0,2025-09-22,faltou,simulado,1,2025-09,0,1
+sim_8,sim_med_10,Ginecologia,particular,17,17,2,210.0,2024-08-26,realizada,simulado,0,2024-08,2,4
+sim_17,sim_med_9,Clínica Geral,convenio_x,18,22,0,150.0,2024-10-22,faltou,simulado,1,2024-10,0,1
+sim_20,sim_med_10,Clínica Geral,particular,59,2,0,150.0,2025-07-06,realizada,simulado,0,2025-07,2,1
+sim_42,sim_med_2,Cardiologia,particular,83,2,1,260.0,2025-03-11,realizada,simulado,0,2025-03,2,0
+sim_75,sim_med_10,Ginecologia,convenio_x,51,11,1,210.0,2025-02-19,realizada,simulado,0,2025-02,0,4
+sim_76,sim_med_12,Cardiologia,particular,2,7,2,260.0,2025-09-25,faltou,simulado,1,2025-09,2,0
+sim_81,sim_med_9,Pediatria,convenio_x,43,7,2,180.0,2025-05-15,faltou,simulado,1,2025-05,0,9
+sim_42,sim_med_2,Ortopedia,convenio_x,4,4,1,220.0,2025-09-24,realizada,simulado,0,2025-09,0,7
+sim_13,sim_med_9,Endocrinologia,particular,77,5,1,230.0,2024-09-25,realizada,simulado,0,2024-09,2,3
+sim_38,sim_med_7,Ortopedia,convenio_y,4,1,1,220.0,2024-09-24,faltou,simulado,1,2024-09,1,7
+sim_56,sim_med_1,Ginecologia,convenio_y,12,9,1,210.0,2025-05-31,realizada,simulado,0,2025-05,1,4
+sim_19,sim_med_5,Ginecologia,particular,43,13,0,210.0,2024-09-15,realizada,simulado,0,2024-09,2,4
+sim_45,sim_med_5,Neurologia,convenio_y,45,9,0,280.0,2025-02-12,realizada,simulado,0,2025-02,1,5
+sim_20,sim_med_12,Ortopedia,particular,72,4,0,220.0,2024-10-27,realizada,simulado,0,2024-10,2,7
+sim_57,sim_med_7,Ginecologia,convenio_y,83,8,0,210.0,2025-06-30,realizada,simulado,0,2025-06,1,4
+sim_27,sim_med_5,Endocrinologia,convenio_x,34,15,0,230.0,2025-08-01,faltou,simulado,1,2025-08,0,3
+sim_15,sim_med_12,Neurologia,convenio_x,65,15,1,280.0,2025-04-18,realizada,simulado,0,2025-04,0,5
+sim_88,sim_med_13,Urologia,convenio_x,11,23,0,220.0,2025-02-04,realizada,simulado,0,2025-02,0,11
+sim_53,sim_med_11,Urologia,particular,2,24,0,220.0,2025-07-24,faltou,simulado,1,2025-07,2,11
+sim_14,sim_med_14,Otorrinolaringologia,convenio_x,19,9,1,200.0,2025-05-19,realizada,simulado,0,2025-05,0,8
+sim_34,sim_med_14,Otorrinolaringologia,particular,51,6,0,200.0,2025-09-11,realizada,simulado,0,2025-09,2,8
+sim_7,sim_med_6,Urologia,convenio_y,76,4,0,220.0,2025-10-08,realizada,simulado,0,2025-10,1,11
+sim_73,sim_med_6,Neurologia,convenio_x,44,1,0,280.0,2025-11-07,realizada,simulado,0,2025-11,0,5
+sim_47,sim_med_1,Neurologia,convenio_x,42,5,0,280.0,2025-11-03,realizada,simulado,0,2025-11,0,5
+sim_53,sim_med_8,Clínica Geral,convenio_x,83,8,1,150.0,2025-09-24,realizada,simulado,0,2025-09,0,1
+sim_86,sim_med_9,Ortopedia,convenio_y,37,28,0,220.0,2024-10-18,realizada,simulado,0,2024-10,1,7
+sim_64,sim_med_1,Neurologia,convenio_y,28,7,1,280.0,2025-08-20,realizada,simulado,0,2025-08,1,5
+sim_1,sim_med_14,Otorrinolaringologia,particular,65,6,2,200.0,2025-04-14,realizada,simulado,0,2025-04,2,8
+sim_6,sim_med_13,Ortopedia,particular,87,7,0,220.0,2025-02-02,realizada,simulado,0,2025-02,2,7
+sim_12,sim_med_13,Psiquiatria,convenio_y,13,12,1,250.0,2024-09-01,faltou,simulado,1,2024-09,1,10
+sim_72,sim_med_7,Dermatologia,convenio_x,50,11,0,200.0,2025-05-24,realizada,simulado,0,2025-05,0,2
+sim_78,sim_med_3,Ginecologia,convenio_x,19,20,0,210.0,2025-06-26,realizada,simulado,0,2025-06,0,4
+sim_84,sim_med_8,Otorrinolaringologia,particular,55,12,3,200.0,2025-06-30,realizada,simulado,0,2025-06,2,8
+sim_60,sim_med_3,Urologia,convenio_y,5,7,0,220.0,2025-09-13,faltou,simulado,1,2025-09,1,11
+sim_18,sim_med_12,Pediatria,convenio_y,52,14,1,180.0,2025-04-28,faltou,simulado,1,2025-04,1,9
+sim_78,sim_med_6,Endocrinologia,convenio_y,56,21,0,230.0,2024-09-15,faltou,simulado,1,2024-09,1,3
+sim_40,sim_med_5,Endocrinologia,convenio_x,85,8,0,230.0,2025-03-03,faltou,simulado,1,2025-03,0,3
+sim_17,sim_med_11,Endocrinologia,convenio_x,16,16,1,230.0,2025-06-04,faltou,simulado,1,2025-06,0,3
+sim_85,sim_med_14,Oftalmologia,particular,18,2,0,190.0,2025-08-23,realizada,simulado,0,2025-08,2,6
+sim_9,sim_med_11,Clínica Geral,convenio_x,83,11,0,150.0,2025-06-10,faltou,simulado,1,2025-06,0,1
