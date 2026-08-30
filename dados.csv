@@ -1,0 +1,21 @@
+id_consulta,paciente,idade_paciente,tipo_plano,medico,medico_ativo,especialidade,data_consulta,ano,mes,ano_mes,status_consulta,valor_consulta,valor_pago,data_pagamento,metodo_pagamento,status_pagamento
+1,Ana Beatriz Souza Lima,35,particular,Dr. Carlos Eduardo Silva,True,Cardiologia,2026-02-10,2026,2,2026-02,realizada,250.0,250.0,2026-02-10,pix,pago
+2,João Pedro Ferreira Costa,40,convenio_x,Dra. Fernanda Costa Lima,True,Pediatria,2026-02-11,2026,2,2026-02,realizada,180.0,180.0,2026-02-11,cartao,pago
+3,Maria Clara Oliveira Santos,24,convenio_y,Dr. Ricardo Alves Santos,True,Ortopedia,2026-02-12,2026,2,2026-02,realizada,220.0,220.0,2026-02-12,dinheiro,pago
+4,Pedro Henrique Almeida Rocha,47,particular,Dra. Juliana Pereira Souza,True,Ginecologia,2026-02-13,2026,2,2026-02,realizada,210.0,210.0,2026-02-13,cartao,pago
+5,Luiza Fernanda Cardoso Silva,30,convenio_x,Dr. Marcelo Rodrigues Oliveira,True,Clínica Geral,2026-02-14,2026,2,2026-02,realizada,150.0,150.0,2026-02-14,pix,pago
+6,Gabriel Souza Martins,16,convenio_y,Dra. Patrícia Gomes Ferreira,True,Dermatologia,2026-02-17,2026,2,2026-02,realizada,200.0,200.0,2026-02-18,cartao,pago
+7,Camila Rodrigues Nunes,37,particular,Dr. André Luiz Barbosa,False,Neurologia,2026-02-18,2026,2,2026-02,realizada,280.0,280.0,2026-02-18,pix,pago
+8,Lucas Gabriel Pereira Dias,26,convenio_x,Dra. Camila Rocha Nascimento,True,Psiquiatria,2026-02-19,2026,2,2026-02,realizada,250.0,250.0,2026-02-19,dinheiro,pago
+9,Isabela Cristina Gomes Barbosa,53,convenio_y,Dr. Eduardo Martins Cavalcante,True,Oftalmologia,2026-02-20,2026,2,2026-02,realizada,190.0,190.0,2026-02-20,cartao,pago
+10,Rafael Augusto Teixeira Lima,10,particular,Dra. Beatriz Almeida Cardoso,True,Otorrinolaringologia,2026-02-21,2026,2,2026-02,realizada,200.0,200.0,2026-02-22,pix,pago
+11,Beatriz Helena Monteiro Costa,32,convenio_x,Dr. Rafael Nunes Teixeira,True,Urologia,2026-02-24,2026,2,2026-02,realizada,220.0,220.0,2026-02-24,cartao,pago
+12,Felipe Henrique Araújo Souza,43,particular,Dra. Larissa Dias Monteiro,True,Clínica Geral,2026-02-25,2026,2,2026-02,realizada,150.0,150.0,2026-02-25,dinheiro,pago
+13,Larissa Maria Cavalcante Silva,20,convenio_y,Dr. Thiago Correia Ramos,True,Cardiologia,2026-02-26,2026,2,2026-02,realizada,250.0,250.0,2026-02-26,pix,pago
+14,Thiago Rodrigo Nascimento Alves,58,particular,Dra. Vanessa Lima Araújo,True,Endocrinologia,2026-03-03,2026,3,2026-03,agendada,230.0,230.0,2026-03-01,pix,pago
+15,Vanessa Cristina Lima Ferreira,34,convenio_x,Dr. Carlos Eduardo Silva,True,Cardiologia,2026-03-04,2026,3,2026-03,agendada,250.0,0.0,,,pendente
+16,Carlos Eduardo Santos Rocha,50,convenio_y,Dra. Fernanda Costa Lima,True,Pediatria,2026-03-05,2026,3,2026-03,cancelada,180.0,0.0,,,pendente
+17,Ana Beatriz Souza Lima,35,particular,Dr. Marcelo Rodrigues Oliveira,True,Clínica Geral,2026-03-06,2026,3,2026-03,agendada,150.0,0.0,,,pendente
+18,João Pedro Ferreira Costa,40,convenio_x,Dr. Ricardo Alves Santos,True,Ortopedia,2026-02-10,2026,2,2026-02,cancelada,220.0,0.0,,,cancelado
+19,Maria Clara Oliveira Santos,24,convenio_y,Dra. Patrícia Gomes Ferreira,True,Dermatologia,2026-02-13,2026,2,2026-02,cancelada,200.0,0.0,,,cancelado
+20,Pedro Henrique Almeida Rocha,47,particular,Dr. André Luiz Barbosa,False,Neurologia,2026-02-17,2026,2,2026-02,faltou,280.0,0.0,,,cancelado
